@@ -1,0 +1,9 @@
+## Title: DGS UI
+## Interface: 90001
+## Author: DGS
+## Notes: Seta o posicionamento dos target's, class color, frames sizes e remove os gryphons da barra de skills
+## Version: 2.0.0
+
+GryphonsHide.lua
+ClassColors.lua
+ConfigFrames.lua
